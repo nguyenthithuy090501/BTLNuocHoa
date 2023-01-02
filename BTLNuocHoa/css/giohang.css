@@ -1,0 +1,104 @@
+﻿
+table {
+    width: 70%;
+/*   
+    border: 1px solid;*/
+}
+/*table ,th {
+    border: 1px solid;
+}*/
+span {
+    padding: 0 0 0 10px;
+}
+.tongtien {
+    display: flex;
+    padding: 0 30px 30px 30px;
+}
+.thnhtoan {
+   
+    width: 200px;
+    font-size: 0.9em;
+    padding:5px 5px 5px 5px;
+}
+button#ttoan {
+    padding: 50px 0 0 0;
+    background-color: #07503d;
+    font-size: 20px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    /*text-align: center;*/
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input.thanhtien {
+    width: 120px;
+}
+input {
+    width: 20px;
+    text-align: center;
+    font-size: 16px;
+    border:none;
+}
+     input.gia {
+        width: 70px;
+    }
+    input.soluong {
+        width: 40px;
+        text-align: center;
+        font-size: 16px;
+    }
+    .giohang table tr td {
+    padding: 5px 15px;
+}
+img#img-feature {
+    width: 70%;
+}
+td#anh_sp {
+    width: 200px;
+}
+
+td#ten_sp {
+    width: 400px;
+    text-align: left;
+}
+
+.td {
+    color: #07503d;
+    margin-left: 150px;
+    border: 2px
+}
+
+
+    .khung {
+    margin: auto;
+    border-spacing: 0px 15px;
+    padding: 0px 15px;
+    text-align: center;
+    color: #07503d;
+    font-size: 20px;
+}
+
+    .khung tr td {
+        border-bottom: 1px solid #ddd;
+    }
+
+    .khung.tieude.sl {
+        width: 70px;
+    }
+    .thanhtoan{
+
+    }
+
+ttoan {
+    direction: rtl;
+    margin: 10px 320px 70px 0px;
+}
+
+nav{
+    margin:0 auto;
+    max-width:1200px;
+}
